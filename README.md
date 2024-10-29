@@ -10,4 +10,4 @@
 ## Prostor na nápady a průbehy
 *nápady*
 
-[**Quick SYSP Button**](https://github.com/Maruch-MrSky/SYSPsitory)
+[**Quick SYSP Button**](https://github.com/Maruch-MrSky/SYSPository)
