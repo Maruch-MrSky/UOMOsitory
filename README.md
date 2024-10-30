@@ -5,9 +5,9 @@
 - Class diagram
 - ER diagram
 - Object diagram
-## Námi vytvořené zadání
-*slovní znění základních vztahů*
-## Prostor na nápady a průbehy
+## Úvod
+*slovní znění projektu*
+## Prostor na nápady, entity a vstahy
 *nápady*
 
 [**Quick SYSP Button**](https://github.com/Maruch-MrSky/SYSPository)
