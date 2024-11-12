@@ -1,13 +1,12 @@
-# UOMOsitory
 ### projekt UOMO s Tematem diagramů RPG 
-**bude obsahovat 4 diagramy:**
-- UseCase diagram
-- Class diagram
-- ER diagram
-- Object diagram
-## Úvod
-*slovní znění projektu*
-## Prostor na nápady, entity a vstahy
-*nápady*
+**bude obsahovat úvod a 3 diagramy:**
+- Textový popis projektu 
+- Model případů užití *(UseCase diagram)*
+- Analytický model tříd *(analitic Class diagram)*
+- Návrhový model tříd *(Object diagram)*
+
+
+## připomínky
+*připomínky*
 
 [**Quick SYSP Button**](https://github.com/Maruch-MrSky/SYSPository)
