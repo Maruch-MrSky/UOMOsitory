@@ -1,4 +1,4 @@
-### projekt UOMO s Tematem diagramů RPG 
+## projekt UOMO s Tematem diagramů RPG 
 **bude obsahovat úvod a 3 diagramy:**
 - Textový popis projektu 
 - Model případů užití *(UseCase diagram)* (hotovo)
@@ -6,11 +6,11 @@
 - Návrhový model tříd *(Object diagram)*
 
 # TODO
-- **celý návrhový model**
-- vztahy v analytickém modelu
+- **Návrhový model**
+- Vztahy v analytickém modelu
 - Textový popis modelu
 
-## připomínky
-*připomínky*
+### připomínky
+*připomínky a nápady*
 
 [**Quick SYSP Button**](https://github.com/Maruch-MrSky/SYSPository)
