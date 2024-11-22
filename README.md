@@ -15,7 +15,8 @@
 
 [**Quick SYSP Button**](https://github.com/Maruch-MrSky/SYSPository)
 
-**ÚVOD**
+**ÚVOD** 
+
 Model popisuje nenáročnou hru s RPG prvky. Hráč si může vytvořit postavu, vysílat ji na mise, následne získavať expy, zlato a vyzbroj, kterou může využívat nebo prodávat. 
 O postavách jsou vedeny základní informace (id, jméno, level, expy, staty, zlato, inventář a vybarvená výzbroj)
 
