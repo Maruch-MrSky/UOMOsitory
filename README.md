@@ -2,7 +2,7 @@
 **bude obsahovat úvod a 3 diagramy:**
 - Textový popis projektu 
 - Model případů užití *(UseCase diagram)* ✅
-- Analytický model tříd *(analitic Class diagram)*  ✅ *(vicemene)*
+- Analytický model tříd *(analytic Class diagram)*  ✅ *(vicemene)*
 - Návrhový model tříd *(Object diagram)*
 
 # TODO
