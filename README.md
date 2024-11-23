@@ -13,7 +13,7 @@
 ### připomínky
 *připomínky a nápady*
 
--Přidat datový typ do atributu "inventar" v třídě "Postava"
+-Přidat datový typ do atributu "inventar" v třídě "Postava" (proč to nemá kulatý odrážky :(  )
 
 [**Quick SYSP Button**](https://github.com/Maruch-MrSky/SYSPository)
 
