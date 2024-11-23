@@ -12,6 +12,7 @@
 
 ### připomínky
 *připomínky a nápady*
+-Přidat datový typ do atributu "inventar" v třídě "Postava"
 
 [**Quick SYSP Button**](https://github.com/Maruch-MrSky/SYSPository)
 
