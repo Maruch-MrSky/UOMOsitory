@@ -21,11 +21,15 @@
 
 ## ÚVOD
 
-Model popisuje nenáročnou hru s RPG prvky. Hráč si může vytvořit postavu, vysílat ji na mise, následne získavať expy, zlato a vyzbroj, kterou může využívat nebo prodávat. 
-O postavách jsou vedeny základní informace (id, jméno, level, expy, staty, zlato, inventář a vybarvená výzbroj)
+Model popisuje nenáročnou hru s RPG prvky a multiplayerem. Hráči si můžou vytvořit postavu, vysílat ji na mise, následně získávají expy, zlato a vyzbroj, kterou můžou využívat nebo prodávat. 
+O postavách jsou vedeny základní informace (id, jméno, level, expy, hit pointy, zlato, vybavená výzbroj a splněné mise).
 
-Pro získání výzbroje muzou hráči buď na misi (mise má popis, délku mise a odměnu v podobě expů, zlata a vyzbroje), nebo ji můžou nakoupit v obchodě (obchod obsahuje výzbroj a čas obnovy zboží). Samotná výzbroj má id, název, popis a cenu a dělí se za brnění s hodnotou odolnosti a zbraně s poškozením a rychlostí útoku.
+Pro získání výzbroje můžou hráči buď na misi (mise má popis, délku mise, odměnu v podobě expů, zlata a výzbroje), nebo ji můžou nakoupit v obchodě (obchod obsahuje nabídku výzbroje a čas obnovy nabídky). Samotná výzbroj má id, název, popis a cenu a dělí se za brnění s hodnotou odolnosti a zbraně s poškozením a rychlostí útoku.
 
-Dále se hráči mohou sdružovat do guild, u guildy systém zaznamenáva název guildy, hlavu guildy, počet a jména členů a zda probíhá nájezd na jinou guildu.
+Dále se hráči mohou sdružovat do guild, u guildy systém zaznamenává název guildy, hlavu guildy, seznam členů, žebříček guild a zda probíhá nájezd na jinou guildu.
 
-Hráči se mohou vzájemně poměřovat na Eventech (event zaznamenava název , popis, žebříček účastnících se hráčů,...
+Hráči se mohou vzájemně poměřovat na Eventech (je zaznamenáván název, popis, délka trvání eventu, žebříček účastnících se hráčů a nějakou odměnu).
+
+Hráči mezi sebou mají možnost komunikovat globálním chatem, který bude zobrazovat odesilatele a zprávu kterou odeslal.
+
+Hru spravují admini, kteří mají možnost vytvářet/upravovat/odebírat výzbroj, zahájit/spravovat/ukončit eventy, přidat/upravit/odebrat mise a mazat nevhodné zprávy v chatu.
