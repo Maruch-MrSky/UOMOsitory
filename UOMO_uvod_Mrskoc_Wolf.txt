@@ -1,0 +1,12 @@
+ÚVOD
+Model popisuje nenáročnou hru s RPG prvky a multiplayerem. Hráči si můžou vytvořit vlastní postavu, tu pak vysílají na mise, následně z misí získávají expy, zlato a občas vyzbroj, kterou můžou využívat nebo prodávat. O postavách jsou vedeny základní informace jako třeba jméno, ID postavy, level, expy, hit pointy, zlato, vybavená výzbroj a aktuální a splněné mise).
+
+Pro získání výzbroje můžou hráči buď na misi (mise má svůj popis, časovou délku mise, odměnu v podobě expů, zlata a případné výzbroje), nebo ji můžou nakoupit v obchodě (obchod obsahuje nabídku výzbroje a čas obnovy nabídky s možností obnovit nabídku obchodu). Samotná výzbroj má id, název, popis a cenu a dělí se za brnění s hodnotou odolnosti a zbraně s poškozením a rychlostí útoku.
+
+Dále se hráči mohou sdružovat do guild, u guildy systém zaznamenává název guildy, hlavu guildy, seznam členů, žebříček guild a zda probíhá nájezd na jinou guildu.
+
+Hráči se mohou vzájemně poměřovat na Eventech (je zaznamenáván název, popis, délka trvání eventu, žebříček účastnících se hráčů a nějakou odměnu).
+
+Hráči mezi sebou mají možnost komunikovat globálním chatem, který bude zobrazovat odesilatele a zprávu kterou odeslal.
+
+Hru spravují admini, kteří mají možnost vytvářet/upravovat/odebírat výzbroj, zahájit/spravovat/ukončit eventy, přidat/upravit/odebrat mise a mazat nevhodné zprávy v chatu.
